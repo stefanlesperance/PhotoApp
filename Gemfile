@@ -30,7 +30,6 @@ gem 'bootsnap', '>= 1.4.4', require: false
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
-gem 'jquery-rails'
 gem "mail_form", ">= 1.3.0"
 gem 'stripe'
 
